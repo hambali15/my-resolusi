@@ -1,0 +1,5 @@
+MY RESOLUSI
+- Bisa membuat website sederhana
+- Memahami HTML CSS dan Javascript
+- Memahami Database dengan bahasa pemrograman MYSQL
+- Mampu menghubungkan database dan website menggunakan bahasa pemrograman PHP
